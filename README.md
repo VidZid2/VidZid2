@@ -3,6 +3,18 @@
 # Josiah De Asis
 **Frontend Developer & 2nd-Year BSIT Student**
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2.svg?variant=outline&font=geist" />
+  <img alt="profile views" src="https://shieldcn.dev/views/user/VidZid2.svg?variant=outline&mode=light&font=geist" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2/repos.svg?variant=outline&font=geist" />
+  <img alt="repo views" src="https://shieldcn.dev/views/user/VidZid2/repos.svg?variant=outline&mode=light&font=geist" />
+</picture>
+
+</div>
 
 <br />
 
