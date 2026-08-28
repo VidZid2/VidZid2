@@ -1,35 +1,36 @@
 <div align="center">
 
 # Josiah De Asis
-**Frontend Engineer & UI Architect**
+**Frontend Developer & 2nd-Year BSIT Student**
 
 
 <br />
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-sync--portfolio--jd.vercel.app-6495ED?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-portfolio-jd.vercel.app)
-[![Status](https://img.shields.io/badge/Status-Available_for_Hire-6495ED?style=for-the-badge)](https://sync-portfolio-jd.vercel.app/contact)
+[![Status](https://img.shields.io/badge/Status-Available_for_Work-6495ED?style=for-the-badge)](https://sync-portfolio-jd.vercel.app/contact)
 [![Views](https://komarev.com/ghpvc/?username=VidZid2&label=Profile%20Views&color=6495ED&style=for-the-badge)](https://sync-portfolio-jd.vercel.app)
 
 <br />
 
 <p align="center">
   2nd-Year BSIT Student at <b>STI College Meycauayan</b>.<br />
-  Engineering scalable web applications, bespoke agency platforms, and fluid micro-interactions.
+  Passionate about frontend development, clean UI design, and building fast web projects with modern tools.<br />
+  Always learning, exploring new tech, and open for freelance web development work.
 </p>
 
 </div>
 
 ---
 
-### Selected Work
+### Selected Projects
 
-* **[Project SYNC (Portfolio v2.0)](https://sync-portfolio-jd.vercel.app)** — Technical blueprint portfolio platform featuring real-time AI streaming, custom audio synthesis, and WebGL particle shaders.
-* **[PRIMA Digital Agency](https://github.com/VidZid2/prima)** — High-conversion commercial B2B digital agency platform built with React 19, custom physics transitions, and sub-50ms latency.
-* **[eLMS 2.0 Platform](https://github.com/VidZid2/STI)** — Full-stack institutional learning management platform with Supabase Row Level Security (RLS) and optimistic state machines.
+* **[Project SYNC (Portfolio)](https://sync-portfolio-jd.vercel.app)** — My personal portfolio built from scratch using Next.js 16, custom UI animations, sound effects, and interactive features.
+* **[PRIMA Digital](https://github.com/VidZid2/prima)** — An official digital agency website I developed featuring smooth scrolling, responsive layouts, and interactive booking mechanics.
+* **[STI eLMS 2.0](https://github.com/VidZid2/STI)** — A modern student LMS overhaul concept focused on speed, clean database integration, and an intuitive dashboard.
 
 ---
 
-### Core Stack
+### Tech & Tools
 
 <div align="center">
 
@@ -48,14 +49,14 @@
 
 ---
 
-### Inquiries & Collaborations
+### Get In Touch
 
 <div align="center">
 
-<p>Available for freelance contracts, commercial web builds, and remote engineering positions.</p>
+<p>Feel free to reach out if you have a web project, freelance work, or just want to connect!</p>
 
 <a href="https://sync-portfolio-jd.vercel.app/contact">
-  <img src="https://img.shields.io/badge/Inquiry_Form-Send_Message-6495ED?style=for-the-badge&logo=safari&logoColor=white" alt="Contact Form" />
+  <img src="https://img.shields.io/badge/Contact_Form-Send_Message-6495ED?style=for-the-badge&logo=safari&logoColor=white" alt="Contact Form" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:josiahdeasis009@gmail.com">
