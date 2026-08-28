@@ -13,8 +13,8 @@
 
 <p align="center">
   2nd-Year BSIT Student at <b>STI College Meycauayan</b>.<br />
-  Passionate about frontend engineering, fluid UI animations, and building modern web apps.<br />
-  Always learning, exploring new tech, and open for freelance web development work.
+  Currently studying web technologies and building hands-on projects with Next.js, React, and TypeScript.<br />
+  Always learning, improving my skills, and open for freelance web development gigs.
 </p>
 
 </div>
@@ -29,7 +29,7 @@
       <th align="left">Project</th>
       <th align="left">Description</th>
       <th align="center">Stack</th>
-      <th align="center">Access</th>
+      <th align="center">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -39,7 +39,7 @@
         <sub><i>Personal Portfolio</i></sub>
       </td>
       <td align="left" width="46%">
-        Interactive blueprint portfolio built from scratch featuring fluid UI physics animations, custom audio feedback, and AI features.
+        My personal portfolio website where I practice building interactive UI components, custom animations, and experimenting with modern web tools.
       </td>
       <td align="center" width="18%">
         <code>Next.js 16</code><br />
@@ -53,10 +53,10 @@
     <tr>
       <td align="left" width="22%">
         <b>PRIMA Digital</b><br />
-        <sub><i>Commercial Agency</i></sub>
+        <sub><i>Freelance Client Work</i></sub>
       </td>
       <td align="left" width="46%">
-        Official commercial agency web platform engineered with smooth inertia scrolling, responsive layouts, and interactive booking mechanics.
+        A real freelance project I built for a digital agency, featuring responsive mobile layouts, smooth page transitions, and an online booking section.
       </td>
       <td align="center" width="18%">
         <code>React 19</code><br />
@@ -70,10 +70,10 @@
     <tr>
       <td align="left" width="22%">
         <b>STI eLMS 2.0</b><br />
-        <sub><i>Learning Platform</i></sub>
+        <sub><i>Student Project</i></sub>
       </td>
       <td align="left" width="46%">
-        Modern student LMS overhaul concept focused on sub-second load times, clean database management, and an intuitive student dashboard.
+        A full overhaul concept of our school portal that I created to practice backend database integration, secure user logins, and a cleaner student dashboard.
       </td>
       <td align="center" width="18%">
         <code>Supabase</code><br />
