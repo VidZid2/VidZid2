@@ -23,9 +23,69 @@
 
 ### Selected Projects
 
-* **[Project SYNC (Portfolio)](https://sync-portfolio-jd.vercel.app)** — My personal portfolio built from scratch using Next.js 16, custom UI animations, sound effects, and interactive features.
-* **[PRIMA Digital](https://github.com/VidZid2/prima)** — An official digital agency website I developed featuring smooth scrolling, responsive layouts, and interactive booking mechanics.
-* **[STI eLMS 2.0](https://github.com/VidZid2/STI)** — A modern student LMS overhaul concept focused on speed, clean database integration, and an intuitive dashboard.
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+      <th align="center">Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" width="22%">
+        <b>Project SYNC</b><br />
+        <sub><i>Personal Portfolio</i></sub>
+      </td>
+      <td align="left" width="46%">
+        Interactive blueprint portfolio built from scratch featuring fluid UI physics animations, custom audio feedback, and AI features.
+      </td>
+      <td align="center" width="18%">
+        <code>Next.js 16</code><br />
+        <code>Framer Motion</code><br />
+        <code>TypeScript</code>
+      </td>
+      <td align="center" width="14%">
+        <a href="https://sync-portfolio-jd.vercel.app"><b>Live Site →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="22%">
+        <b>PRIMA Digital</b><br />
+        <sub><i>Commercial Agency</i></sub>
+      </td>
+      <td align="left" width="46%">
+        Official commercial agency web platform engineered with smooth inertia scrolling, responsive layouts, and interactive booking mechanics.
+      </td>
+      <td align="center" width="18%">
+        <code>React 19</code><br />
+        <code>TypeScript</code><br />
+        <code>Tailwind CSS</code>
+      </td>
+      <td align="center" width="14%">
+        <a href="https://github.com/VidZid2/prima"><b>GitHub →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="22%">
+        <b>STI eLMS 2.0</b><br />
+        <sub><i>Learning Platform</i></sub>
+      </td>
+      <td align="left" width="46%">
+        Modern student LMS overhaul concept focused on sub-second load times, clean database management, and an intuitive student dashboard.
+      </td>
+      <td align="center" width="18%">
+        <code>Supabase</code><br />
+        <code>React 19</code><br />
+        <code>Tailwind CSS</code>
+      </td>
+      <td align="center" width="14%">
+        <a href="https://github.com/VidZid2/STI"><b>GitHub →</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
