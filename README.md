@@ -5,18 +5,6 @@
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2.svg?base=1240&variant=outline&font=geist" />
-  <img alt="profile views" src="https://shieldcn.dev/views/user/VidZid2.svg?base=1240&variant=outline&mode=light&font=geist" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2/repos.svg?base=3850&variant=outline&font=geist" />
-  <img alt="repo views" src="https://shieldcn.dev/views/user/VidZid2/repos.svg?base=3850&variant=outline&mode=light&font=geist" />
-</picture>
-
-<br /><br />
-
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-sync--portfolio--jd.vercel.app-6495ED?style=flat-square&logo=vercel&logoColor=white)](https://sync-portfolio-jd.vercel.app)
 &nbsp;
 [![Status](https://img.shields.io/badge/Status-●_Available_for_Work-6495ED?style=flat-square)](https://sync-portfolio-jd.vercel.app/contact)
