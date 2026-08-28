@@ -13,8 +13,8 @@
 
 <p align="center">
   2nd-Year BSIT Student at <b>STI College Meycauayan</b>.<br />
-  Currently studying web technologies and building hands-on projects with Next.js, React, and TypeScript.<br />
-  Always learning, improving my skills, and open for freelance web development gigs.
+  Passionate about frontend engineering, fluid UI animations, and building modern web apps.<br />
+  Always learning, exploring new tech, and open for freelance web development work.
 </p>
 
 </div>
@@ -53,10 +53,10 @@
     <tr>
       <td align="left" width="22%">
         <b>PRIMA Digital</b><br />
-        <sub><i>Freelance Client Work</i></sub>
+        <sub><i>Pro-Bono / Volunteer</i></sub>
       </td>
       <td align="left" width="46%">
-        A real freelance project I built for a digital agency, featuring responsive mobile layouts, smooth page transitions, and an online booking section.
+        A pro-bono digital agency website I developed and provided for free, featuring smooth animations, responsive mobile design, and an interactive booking section.
       </td>
       <td align="center" width="18%">
         <code>React 19</code><br />
@@ -70,10 +70,10 @@
     <tr>
       <td align="left" width="22%">
         <b>STI eLMS 2.0</b><br />
-        <sub><i>Student Project</i></sub>
+        <sub><i>Engineering Case Study</i></sub>
       </td>
       <td align="left" width="46%">
-        A full overhaul concept of our school portal that I created to practice backend database integration, secure user logins, and a cleaner student dashboard.
+        A deep-dive case study where I pushed my limits to redesign our school's learning portal from scratch with full-stack database integration, secure logins, and modern UX.
       </td>
       <td align="center" width="18%">
         <code>Supabase</code><br />
