@@ -79,8 +79,8 @@
     <img src="https://img.shields.io/badge/Send_Message-Contact_Form-6495ED?style=for-the-badge&logo=safari&logoColor=white" alt="Contact Form" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:deasis.josiah.teada@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-deasis.josiah.teada@gmail.com-6495ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:josiahdeasis009@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-josiahdeasis009@gmail.com-6495ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
