@@ -3,6 +3,7 @@
 # Josiah De Asis
 **Frontend Engineer & UI Architect**
 
+
 <br />
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-sync--portfolio--jd.vercel.app-6495ED?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-portfolio-jd.vercel.app)
@@ -23,6 +24,10 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
+      <a href="https://sync-portfolio-jd.vercel.app">
+        <img src="https://sync-portfolio-jd.vercel.app/og-image.png" width="100%" alt="Project SYNC Preview" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
       <h4>⚡ Project SYNC</h4>
       <p><i>Technical Blueprint Portfolio</i></p>
       <p align="left">
@@ -31,6 +36,10 @@
       <a href="https://sync-portfolio-jd.vercel.app"><b>Explore Live Site →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
+      <a href="https://github.com/VidZid2/prima">
+        <img src="https://sync-portfolio-jd.vercel.app/PRIMA%20DIGITAL%20AGENCY%20-%20THUMBNAIL.png" width="100%" alt="PRIMA Digital Preview" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
       <h4>🚀 PRIMA Digital</h4>
       <p><i>Commercial Agency Platform</i></p>
       <p align="left">
@@ -39,6 +48,10 @@
       <a href="https://github.com/VidZid2/prima"><b>View Repository →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
+      <a href="https://github.com/VidZid2/STI">
+        <img src="https://sync-portfolio-jd.vercel.app/STI%20eLMS%202.0%20OVERHAUL%20-%20THUMBNAIL.png" width="100%" alt="STI eLMS Preview" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
       <h4>🛡️ STI eLMS 2.0</h4>
       <p><i>Full-Stack Learning Platform</i></p>
       <p align="left">
