@@ -25,7 +25,7 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://sync-portfolio-jd.vercel.app">
-        <img src="https://sync-portfolio-jd.vercel.app/og-image.png" width="100%" alt="Project SYNC Preview" style="border-radius: 8px;" />
+        <img src="https://raw.githubusercontent.com/VidZid2/portfolio/main/public/STARTLINK%202024-2025%20DARKMODE.png" width="100%" alt="Project SYNC Preview" />
       </a>
       <br /><br />
       <h4>⚡ Project SYNC</h4>
@@ -37,7 +37,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/VidZid2/prima">
-        <img src="https://sync-portfolio-jd.vercel.app/PRIMA%20DIGITAL%20AGENCY%20-%20THUMBNAIL.png" width="100%" alt="PRIMA Digital Preview" style="border-radius: 8px;" />
+        <img src="https://raw.githubusercontent.com/VidZid2/portfolio/main/public/PRIMA%20Landing%20Page.png" width="100%" alt="PRIMA Digital Preview" />
       </a>
       <br /><br />
       <h4>🚀 PRIMA Digital</h4>
@@ -49,7 +49,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/VidZid2/STI">
-        <img src="https://sync-portfolio-jd.vercel.app/STI%20eLMS%202.0%20OVERHAUL%20-%20THUMBNAIL.png" width="100%" alt="STI eLMS Preview" style="border-radius: 8px;" />
+        <img src="https://raw.githubusercontent.com/VidZid2/portfolio/main/public/STI%20Landing%20Page%20DARKMODE.png" width="100%" alt="STI eLMS Preview" />
       </a>
       <br /><br />
       <h4>🛡️ STI eLMS 2.0</h4>
