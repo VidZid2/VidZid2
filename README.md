@@ -3,7 +3,6 @@
 # Josiah De Asis
 **Frontend Engineer & UI Architect**
 
-
 <br />
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-sync--portfolio--jd.vercel.app-6495ED?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-portfolio-jd.vercel.app)
@@ -65,15 +64,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-6495ED?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Gemini_AI-6495ED?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Vercel-6495ED?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VidZid2&show_icons=true&hide_border=false&border_color=27272a&bg_color=09090b&title_color=6495ED&text_color=d4d4d8&icon_color=6495ED" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VidZid2&layout=compact&hide_border=false&border_color=27272a&bg_color=09090b&title_color=6495ED&text_color=d4d4d8" alt="Top Languages" width="48%" />
 </p>
 
 ---
