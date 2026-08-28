@@ -3,24 +3,22 @@
 # Josiah De Asis
 **Frontend Developer & 2nd-Year BSIT Student**
 
-<div align="center">
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2.svg?variant=outline&font=geist" />
   <img alt="profile views" src="https://shieldcn.dev/views/user/VidZid2.svg?variant=outline&mode=light&font=geist" />
 </picture>
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/VidZid2/repos.svg?variant=outline&font=geist" />
   <img alt="repo views" src="https://shieldcn.dev/views/user/VidZid2/repos.svg?variant=outline&mode=light&font=geist" />
 </picture>
 
-</div>
-
-<br />
+<br /><br />
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-sync--portfolio--jd.vercel.app-6495ED?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-portfolio-jd.vercel.app)
 [![Status](https://img.shields.io/badge/Status-Available_for_Work-6495ED?style=for-the-badge)](https://sync-portfolio-jd.vercel.app/contact)
-[![Views](https://komarev.com/ghpvc/?username=VidZid2&label=Profile%20Views&color=6495ED&style=for-the-badge)](https://sync-portfolio-jd.vercel.app)
 
 <br />
 
